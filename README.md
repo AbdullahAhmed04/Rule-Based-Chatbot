@@ -1,5 +1,7 @@
 # Rule-Based Chatbot (RuleBot)
 
+![Chatbot Screenshot](screenshot.png)
+
 A lightweight, interactive command-line chatbot built in Python. This project demonstrates basic Natural Language Processing (NLP) concepts using rule-based pattern matching and input sanitization.
 
 ## Features
